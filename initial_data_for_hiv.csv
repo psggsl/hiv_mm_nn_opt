@@ -1,0 +1,9 @@
+symbols,unit,def,viremia,for_patient
+T_1,cells/μL-blood,uninfected activated CD4+ T-cells,201.0,408.0
+Ts_1,cells/μL-blood,infected activated CD4+ T-cells,0.056,0.992479
+T_2,cells/μL-blood,uninfected resting CD4+ T-cells,730.0,841.0
+Ts_2,cells/μL-blood,infected resting CD4+ T-cells,0.04,0.007521
+V_1,RNA copies/ml-plasma,infectious-free virus,288.0,996429.0
+V_2,RNA copies/ml-plasma,non-infectious-free virus,0.0,3571.0
+E_1,cells/μL-blood,HIV-specific effector CD8+ T-cells,240.0,0.06821
+E_2,cells/μL-blood,HIV-specific memory CD8+ T-cells,29.2,0.6909
